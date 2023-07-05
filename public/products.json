@@ -1,0 +1,108 @@
+[
+    {
+      "id": 1,
+      "name": "The Piper at the Gates of Dawn",
+      "price": 20.99,
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/3c/PinkFloyd-album-piperatthegatesofdawn_300.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "name": "A Saucerful of Secrets",
+      "price": 18.99,
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Saucerful_of_secrets2.jpg/220px-Saucerful_of_secrets2.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "name": "More",
+      "price": 16.99,
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/40/MoreCover.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "name": "Ummagumma",
+      "price": 22.99,
+      "image": "https://i.discogs.com/XV5l_gVjT-LXu1RIua-48uOyx6g8uKaCO6MJink-4Uo/rs:fit/g:sm/q:90/h:557/w:567/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzgx/NzQtMTMyNDkxNzMx/My5naWY.jpeg",
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "name": "Atom Heart Mother",
+      "price": 21.99,
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/2e/AtomHeartMotherCover.jpeg",
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "name": "Meddle",
+      "price": 19.99,
+      "image": "https://www.mondadoristore.it/img/Meddle-Pink-Floyd/ea072438297492/BL/BL/08/NZO/?tit=Meddle&aut=Pink+Floyd",
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "name": "Obscured by Clouds",
+      "price": 17.99,
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Pink_Floyd_-_Obscured_by_Clouds.jpg/220px-Pink_Floyd_-_Obscured_by_Clouds.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 8,
+      "name": "The Dark Side of the Moon",
+      "price": 24.99,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/The_Dark_Side_of_the_Moon_Cover.svg",
+      "quantity": 1
+    },
+    {
+      "id": 9,
+      "name": "Wish You Were Here",
+      "price": 23.99,
+      "image": "https://media.gqitalia.it/photos/5f5ba8087ce705d9477d9dff/master/w_1600%2Cc_limit/810CGm6+GbL._AC_SL1500_.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 10,
+      "name": "Animals",
+      "price": 21.99,
+      "image": "https://m.media-amazon.com/images/I/61HYrCLz0ZL._UF1000,1000_QL80_.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 11,
+      "name": "The Wall",
+      "price": 27.99,
+      "image": "https://m.media-amazon.com/images/I/71jxpq0Lk5L._UF1000,1000_QL80_.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 12,
+      "name": "The Final Cut",
+      "price": 18.99,
+      "image": "https://www.emp-online.it/dw/image/v2/BBQV_PRD/on/demandware.static/-/Sites-master-emp/default/dwc11ec0a5/images/3/4/8/7/348782-emp.jpg?sw=1000&sh=800&sm=fit&sfrm=png",
+      "quantity": 1
+    },
+    {
+      "id": 13,
+      "name": "A Momentary Lapse of Reason",
+      "price": 19.99,
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/4e/MLoRLP01.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 14,
+      "name": "The Division Bell",
+      "price": 22.99,
+      "image": "https://www.mondadoristore.it/img/The-division-bell-remastered-Pink-Floyd/ea509990289612/BL/BL/08/NZO/?tit=The+division+bell+%28remastered%29&aut=Pink+Floyd",
+      "quantity": 1
+    },
+    {
+      "id": 15,
+      "name": "The Endless River",
+      "price": 20.99,
+      "image": "https://m.media-amazon.com/images/I/51E7u3L9BaL._UF1000,1000_QL80_.jpg",
+      "quantity": 1
+    }
+  ]
+  

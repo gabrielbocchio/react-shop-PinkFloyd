@@ -1,0 +1,31 @@
+:root {
+    --yellow: yellow;
+    --blue: blue;
+    --green: green;
+    --orange: orange;
+    --red: red;
+  }
+  
+  .home-container {
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    height: 600px;
+  }
+  
+  .imagenprincipal {
+    max-width: 100%;
+    max-height: 100%;
+    z-index: 2;
+  }
+  
+  .wave-line {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+  }

@@ -1,0 +1,91 @@
+.cartTotal{
+    margin-top: 25px;
+    text-align: center;
+    font-size: 26px;
+}
+ 
+ .cart-container {
+    background-color: #202020;
+    padding: 30px;
+
+  }
+  
+  .cart-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 50px;
+  }
+  
+  .cart-item-image {
+    max-height: 200px;
+  }
+  
+  .cart-item-name {
+    margin-top: 10px;
+    color: white;
+
+  }
+  
+  .cart-item-price {
+    color: white;
+  }
+  
+  .cart-item-remove {
+     background-color: #202020;
+    color: white;
+    border: 2px solid #faf9f9;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-size: 20px;
+  }
+  
+  .cart-item-remove:hover {
+    background-color: #ff3399;
+  }
+  
+  .paypal-button {
+    background-color: #e42e89;
+    color: white;
+    border: none;
+    padding: 15px 28px;
+    border-radius: 35px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-size: 18px;
+
+  }
+  
+  .paypal-button:hover {
+    background-color: #ff3399;
+  }
+
+  .containercounter{
+    display: flex;
+    align-items: center;
+    
+  }
+
+  .containercounter p{
+    margin: 0 10px;
+  } 
+
+  .counter-button {
+    cursor: pointer;
+    background-color: #e0e0e0;
+    color: #333;
+    font-weight: bold;
+    padding: 8px 16px;
+    border-radius: 4px;
+    margin: 0 4px;
+    transition: background-color 0.3s;
+  }
+  
+  .counter-button:hover {
+    background-color: #333;
+    color: #fff;
+  }
