@@ -1,0 +1,107 @@
+.image-container {
+  display: flex;
+  justify-content: center;
+  width: 750px;
+  margin: 20px auto;
+  cursor: pointer;
+  position: relative;
+}
+
+
+h2{
+  justify-content: center;
+  text-align: center;
+  margin-top: 25px
+}
+
+h1{
+  justify-content: center;
+  text-align: center;
+  margin-top: 25px
+}
+
+.bio-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 750px;
+  margin: 20px auto;
+  padding: 20px;
+
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.bio-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.bio {
+  text-align: justify;
+  line-height: 1.6;
+  margin-top: 10px;
+}
+
+.background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  z-index: -1;
+}
+
+.line {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50px;
+  transform-origin: left center;
+}
+
+/* Adjust the positioning of the lines as needed */
+.line:nth-child(1) {
+  left: 0%;
+  height: 100vh;
+  background: #9f4e99; /* Darker version of '#D96ED4' */
+}
+
+.line:nth-child(2) {
+  left: 10%;
+  height: 100vh;
+  background: #bfb35c; /* Darker version of 'yellow' */
+}
+
+.line:nth-child(3) {
+  left: 20%;
+  height: 100vh;
+  background: #375f8d; /* Darker version of 'blue' */
+}
+
+.line:nth-child(4) {
+  left: 75%;
+  height: 100vh;
+  background: #3f7242; /* Darker version of 'green' */
+}
+
+.line:nth-child(5) {
+  left: 85%;
+  height: 100vh;
+  background: #9c532e; /* Darker version of 'orange' */
+}
+
+.line:nth-child(6) {
+  left: 95%;
+  height: 100vh;
+  background: #6e1e1e; /* Darker version of 'red' */
+}
+
+
+
+
+
+
+
+
